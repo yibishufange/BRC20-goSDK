@@ -1,4 +1,4 @@
-module wallet-coin-sdk
+module BRC20-goSDK
 
 go 1.17
 
