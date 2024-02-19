@@ -1,4 +1,4 @@
-module BRC20-goSDK
+module github.com/yibishufange/BRC20-goSDK
 
 go 1.17
 
